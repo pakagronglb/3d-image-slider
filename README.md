@@ -1,5 +1,11 @@
 # 3D Image Slider with React Three Fiber 🏙️
 
+
+
+https://github.com/user-attachments/assets/0750a588-dac0-47bc-ac39-b9b84e2cb078
+
+
+
 A stunning 3D image slider built with React Three Fiber and custom shaders, featuring smooth transitions, interactive hover effects, and beautiful UI animations.
 
 
